@@ -1,0 +1,105 @@
+1 what is software ? 
+Software is a set of instructions, data or programs used to operate computers and execute specific tasks. It is the opposite of hardware, which describes the physical aspects of a computer. Software is a generic term used to refer to applications, scripts and programs that run on a device. It can be thought of as the variable part of a computer, while hardware is the invariable part.
+
+The two main categories of software are application software and system software. An application is software that fulfills a specific need or performs tasks. System software is designed to run a computer's hardware and provides a platform for applications to run on top of.
+   
+what is software engineering ?
+Software engineering is the application of principles used in the field of engineering, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems.
+2 explain the types of software ?
+(Application software. The most common type of software, application software is a computer software package that performs a specific function for a user, or in some cases, for another application. An application can be self-contained, or it can be a group of programs that run the application for the user. Examples of modern applications include office suites, graphics software, databases and database management programs, web browsers, word processors, software development tools, image editors and communication platforms)
+
+System software. These software programs are designed to run a computer's application programs and hardware. System software coordinates the activities and functions of the hardware and software. In addition, it controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in. The OS is the best example of system software; it manages all the other computer programs. Other examples of system software include the firmware, computer language translators and system utilities.
+
+Driver software. Also known as device drivers, this software is often considered a type of system software. Device drivers control the devices and peripherals connected to a computer, enabling them to perform their specific tasks. Every device that is connected to a computer needs at least one device driver to function. Examples include software that comes with any nonstandard hardware, including special game controllers, as well as the software that enables standard hardware, such as USB storage devices, keyboards, headphones and printers.
+
+Middleware. The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware enables Microsoft Windows to talk to Excel and Word. It is also used to send a remote work request from an application in a computer that has one kind of OS, to an application in a computer with a different OS. It also enables newer applications to work with legacy ones.
+
+(Programming software. Computer programmers use programming software to write code. Programming software and programming tools enable developers to develop, write, test and debug other software programs. Examples of programming software include assemblers, compilers, debuggers and interpreters.)
+3 what is sdlc ? explain each phases of sdlc
+
+An SDLC (software development life cycle) is a big-picture breakdown of all the steps involved in software creation (planning, coding, testing, deploying, etc.). Companies define custom SDLCs to create a predictable, iterative framework that guides the team through all major stages of development.
+
+The character and the exact number of phases in an SDLC vary between businesses and projects. The most common models are variations on the following steps:
+
+1 Planning Stage
+2 Feasibility or Requirements of Analysis Stage
+3 Design and Prototyping Stage
+4  Software Development Stage
+5 Software Testing Stage
+6 Implementation and Integration
+7 Operations and Maintenance Stage
+*Planning Stage
+Planning icon
+Before we even begin with the planning stage, the best tip we can give you is to take time and acquire proper understanding of app development life cycle.
+
+The planning stage (also called the feasibility stage) is exactly what it sounds like: the phase in which developers will plan for the upcoming project.
+
+It helps to define the problem and scope of any existing systems, as well as determine the objectives for their new systems.
+*Analysis Stage
+The analysis stage includes gathering all the specific details required for a new system as well as determining the first ideas for prototypes.
+
+Developers may:
+
+Define any prototype system requirements
+Evaluate alternatives to existing prototypes
+Perform research and analysis to determine the needs of end-users
+
+*Design Stage
+design phase
+The design stage is a necessary precursor to the main developer stage.
+
+Developers will first outline the details for the overall application, alongside specific aspects, such as its:
+
+User interfaces
+System interfaces
+Network and network requirements
+Databases
+*Development Stage
+The development stage is the part where developers actually write code and build the application according to the earlier design documents and outlined specifications.
+
+This is where Static Application Security Testing or SAST tools come into play.
+
+Product program code is built per the design document specifications. In theory, all of the prior planning and outlined should make the actual development phase relatively straightforward.
+
+Developers will follow any coding guidelines as defined by the organization and utilize different tools such as compilers, debuggers, and interpreters.
+
+Programming languages can include staples such as C++, PHP, and more. Developers will choose the right programming code to use based on the project specifications and requirements.
+
+*Testing Stage
+testing stage
+Building software is not the end.
+
+Now it must be tested to make sure that there aren’t any bugs and that the end-user experience will not negatively be affected at any point.
+
+During the testing stage, developers will go over their software with a fine-tooth comb, noting any bugs or defects that need to be tracked, fixed, and later retested.
+
+t’s important that the software overall ends up meeting the quality standards that were previously defined in the SRS document.
+*Implementation and Integration Stage
+After testing, the overall design for the software will come together. Different modules or designs will be integrated into the primary source code through developer efforts, usually by leveraging training environments to detect further errors or defects.
+
+The information system will be integrated into its environment and eventually installed. After passing this stage, the software is theoretically ready for market and may be provided to any end-users.
+*Maintenance Stage
+maintenance phase
+The SDLC doesn’t end when software reaches the market. Developers must now move into a maintenance mode and begin practicing any activities required to handle issues reported by end-users.
+
+Furthermore, developers are responsible for implementing any changes that the software might need after deployment.
+‍4 what is dfd ? create a dfd diagram on flipkart 
+
+A data flow diagram (DFD) maps out the flow of information for any process or system. It uses defined symbols like rectangles, circles and arrows, plus short text labels, to show data inputs, outputs, storage points and the routes between each destination. Data flowcharts can range from simple, even hand-drawn process overviews, to in-depth, multi-level DFDs that dig progressively deeper into how the data is handled. They can be used to analyze an existing system or model a new one. Like all the best diagrams and charts, a DFD can often visually “say” things that would be hard to explain in words, and they work for both technical and nontechnical audiences, from developer to CEO. That’s why DFDs remain so popular after all these years. While they work well for data flow software and systems, they are less applicable nowadays to visualizing interactive, real-time or database-oriented software or systems.
+
+what is flow chart ?
+
+A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. If we consider all the various forms of flowcharts, they are one of the most common diagrams on the planet, used by both technical and non-technical people in numerous fields. Flowcharts are sometimes called by more specialized names such as Process Flowchart, Process Map, Functional Flowchart, Business Process Mapping, Business Process Modeling and Notation (BPMN),  or Process Flow Diagram (PFD). They are related to other popular diagrams, such as Data Flow Diagrams (DFDs) and Unified Modeling Language (UML) Activity Diagrams.
+
+what is use case diagram ?
+ In the Unified Modeling Language (UML), a use case diagram can summarize the details of your system's users (also known as actors) and their interactions with the system. To build one, you'll use a set of specialized symbols and connectors. An effective use case diagram can help your team discuss and represent:
+
+Scenarios in which your system or application interacts with people, organizations, or external systems
+
+Goals that your system or application helps those entities (known as actors) achieve
+
+The scope of your system
+
+
+
+
